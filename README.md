@@ -1,9 +1,6 @@
 <img align="center" alt="GIF" src="code.gif" width="550" />
   
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/oleksandr-holovach-a56b5b164/">
-  <img align="left" alt="Sasha's LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 <br />
 
